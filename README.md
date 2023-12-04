@@ -1,4 +1,5 @@
-### Hi there 👋
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dhkdwnsdud0516)](https://solved.ac/dhkdwnsdud0516/)
 
 <!--
 **wjy35/wjy35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
