@@ -3,9 +3,9 @@
 12/16 ~ 12/23
 
 - [ ] 알고리즘 3/20
-- [ ] WIJ v1.0.4 업데이트
+- [x] WIJ v1.0.4 업데이트
 - [ ] Redis Jedis 성능 테스트
-- [ ] Python 데이터 시각화 테스트
+- [x] Python 데이터 시각화 테스트
 
 <div align="center">
 
