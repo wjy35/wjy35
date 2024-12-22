@@ -1,12 +1,10 @@
 # ToDo
 
-12/16 ~ 12/23
+12/23 ~ 12/30
 
-- [ ] 알고리즘 5/20
-- [x] WIJ v1.0.4 업데이트
+- [ ] 알고리즘 2/10
 - [ ] Redis Jedis 성능 테스트
-- [x] Python 데이터 시각화 테스트
-
+- [ ] Python Logging Test
 <div align="center">
 
 
