@@ -4,7 +4,7 @@
 
 - [ ] 알고리즘 2/10
 - [ ] Redis Jedis 성능 테스트
-- [ ] Python Logging Test
+- [X] Python Logging Test
 <div align="center">
 
 
