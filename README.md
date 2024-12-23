@@ -2,7 +2,7 @@
 
 12/23 ~ 12/30
 
-- [ ] 알고리즘 2/10
+- [X] 알고리즘 3/10
 - [ ] Redis Jedis 성능 테스트
 - [X] Python Logging Test
 <div align="center">
