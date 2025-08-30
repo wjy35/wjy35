@@ -41,19 +41,38 @@
 ### About Me
 
 <br>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dhkdwnsdud0516)](https://solved.ac/dhkdwnsdud0516/)
+
+<br>
+
+<br>
+
 <p align="center" style="font-size:18px; line-height:1.8; color:#444;">
   <img src="https://img.icons8.com/material/50/b0b0b0/quote-left.png" width="30" />
   <br>
   
 </p>
 
-### LoadMap
-
-
-####
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dhkdwnsdud0516)](https://solved.ac/dhkdwnsdud0516/)
 <br>
+
+<br>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wjy35&show_icons=true&theme=transparent)
+
+<br>
+
+<br>
+
+<img width="636" height="1196" alt="image" src="https://github.com/user-attachments/assets/78fc0663-ce61-4eab-965e-87843fd17f99" />
+
+<br>
+
+<!-- 
+<details>
+  <summary>👇🏻 Load Map 펼쳐보기</summary>
+</details>
+-->
 
 </div>
 
