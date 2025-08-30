@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,50:9370DB,100:8A2BE2&height=150&section=header&text=Welcome!&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,50:9370DB,100:8A2BE2&height=150&section=header&text=WJY35&fontColor=ffffff&fontAlign=80&fontAlignY=40)
 
 [⬇️ Jump to Repos](#repositories)
 
