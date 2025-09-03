@@ -55,6 +55,11 @@
 
 <p align="center" style="font-size:18px; line-height:1.8; color:#444;">
   <img src="https://img.icons8.com/material/50/b0b0b0/quote-left.png" width="30" />
+  
+  <br>
+  
+  *Last man standing*  <br> 
+  *5명 중 1명이 AI로 대체 된다면, 대체되지 않은 1명이 되자*
   <br>
   
 </p>
